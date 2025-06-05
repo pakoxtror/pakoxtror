@@ -47,5 +47,5 @@ I'm a **Full Stack Developer** and **Co-Founder of [Condorsoft](https://condorso
 - 📬 Email: [daniel@condorsoft.dev](mailto:daniel@condorsoft.dev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Let's+build+something+amazing+together!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=535&lines=Let's+build+something+amazing+together!"/>
 </p>
