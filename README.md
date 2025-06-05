@@ -8,8 +8,8 @@ I'm a **Full Stack Developer** and **Co-Founder of [Condorsoft](https://condorso
 
 - 🧑‍💻 Full Stack Developer (MEAN / MERN Stack)
 - 📆 Working professionally in tech since 2020
-- 🌐 Bilingual: English 🇺🇸 & Spanish 🇪🇸
-- 🌎 Clients from USA 🇺🇸, Ecuador 🇪🇨, Colombia 🇨🇴, Mexico 🇲🇽 and more
+- 🌐 Bilingual: English & Spanish 
+- 🤝 Working proficiently with people all over the world (North and South America)
 - 🚀 Building [Condorsoft.dev](https://condorsoft.dev) — Software Development & Tech Consulting
 - 📫 Reach me: [daniel@condorsoft.dev](mailto:daniel@condorsoft.dev)
 
@@ -17,28 +17,9 @@ I'm a **Full Stack Developer** and **Co-Founder of [Condorsoft](https://condorso
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,git,html,css,tailwind" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakoxtror&show_icons=true&theme=react&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakoxtror&layout=compact&theme=react" />
-</p>
-
----
-
-### ✨ Featured Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [Condorsoft.dev](https://condorsoft.dev) | SaaS and Consulting Company | Node.js, Angular, MongoDB, Docker |
-| [AI Chatbot](#) | Sales chatbot using GPT for WhatsApp | OpenAI, Node.js, Firebase |
-| [Admin Dashboard](#) | Web Dashboard for business KPIs | React, Chart.js, Tailwind |
 
 ---
 
@@ -51,18 +32,18 @@ I'm a **Full Stack Developer** and **Co-Founder of [Condorsoft](https://condorso
 
 ---
 
-### 🔥 GitHub Contribution Streak
+### 📌 Highlights & Activities
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pakoxtror&theme=react" />
-</p>
+- 🧠 Co-founder of a growing dev agency: [Condorsoft.dev](https://condorsoft.dev)
+- 💼 Actively working on full-time and freelance web projects
+- 🛠️ Building internal tools to streamline dev workflows
+- 🗣️ Sharing insights and ideas through tech communities
 
 ---
 
 ### 💬 Let's Connect!
 
-- 🐦 Twitter: [@condorsoftdev](https://twitter.com/condorsoftdev)
-- 💼 LinkedIn: [Daniel @ Condorsoft](https://www.linkedin.com/company/condorsoftdev)
+- 💼 LinkedIn: [Daniel @ Condorsoft](https://www.linkedin.com/in/daniel-armijos-bustamante/)
 - 📬 Email: [daniel@condorsoft.dev](mailto:daniel@condorsoft.dev)
 
 <p align="center">
